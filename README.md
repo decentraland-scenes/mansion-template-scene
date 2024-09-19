@@ -1,6 +1,6 @@
 # SDK7 Mansion Template
 
-A large template scene with default art, meant for using in Worlds, 10 x 10 parcels. The scene doesn't include anything interactive.
+A large template scene with default art, meant for using in Worlds, 20 x 20 parcels. The scene doesn't include anything interactive.
 
 
 ## Try it out
